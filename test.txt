@@ -1,2 +1,4 @@
-city : Chennai
-Job : Frontend Developer
+
+city : Bangalore
+Job : Full Stack Developer
+
