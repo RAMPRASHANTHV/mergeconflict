@@ -1,2 +1,2 @@
-city : none
-Job : none
+city : Chennai
+Job : Frontend Developer
