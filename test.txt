@@ -1,2 +1,2 @@
-city : none
-Job : none
+city : Bangalore
+Job : Full Stack Developer
